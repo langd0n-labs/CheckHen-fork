@@ -4,4 +4,4 @@
 - [@a1icja](https://github.com/a1icja): original author.
 - [@aliciavcao](https://github.com/aliciavcao): development.
 - [@trgardos](https://github.com/trgardos): the idea for cold calling.
-- Pawel: the idea for raising hands. (GitHub handle to come.)
+- Pawel: the idea for raising hands.
